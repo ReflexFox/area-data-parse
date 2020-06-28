@@ -1,0 +1,12 @@
+{
+  "name": "vant-area-parse",
+  "version": "1.0.0",
+  "description": "转换vant-area的数据为嵌套对象格式",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "bulid": "node index.js"
+  },
+  "author": "ReflexFox",
+  "license": "MIT"
+}
